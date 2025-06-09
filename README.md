@@ -6,8 +6,8 @@ In addition, interactive HTML versions are provided for both male and female com
 
 ## Contents
 - `SCI_construct.py`: Python script for calculating cosine similarity and building the network.
-- `figure2a_male_comorbidity_network.html`: Interactive visualization of the male comorbidity network (Figure 2a).
-- `figure2a_female_comorbidity_network.html`: Interactive visualization of the female comorbidity network (Figure 2a).
+- `Figure 2a_male comorbidity network.html`: Interactive visualization of the male comorbidity network (Figure 2a).
+- `Figure 2a_female comorbidity network.html`: Interactive visualization of the female comorbidity network (Figure 2a).
 - No external files required; a demo dataset is included in the `__main__` section.
 
 ## Usage
